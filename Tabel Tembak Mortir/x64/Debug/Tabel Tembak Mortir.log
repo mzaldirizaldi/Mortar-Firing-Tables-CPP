@@ -1,0 +1,11 @@
+﻿  Tabel Tembak Mortir.cpp
+C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\Tabel Tembak Mortir\Tabel Tembak Mortir.cpp(40,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\Tabel Tembak Mortir\Tabel Tembak Mortir.cpp(52,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\Tabel Tembak Mortir\Tabel Tembak Mortir.cpp(65,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\Tabel Tembak Mortir\Tabel Tembak Mortir.cpp(78,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\Tabel Tembak Mortir\Tabel Tembak Mortir.cpp(91,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\Tabel Tembak Mortir\Tabel Tembak Mortir.cpp(104,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\Tabel Tembak Mortir\Tabel Tembak Mortir.cpp(117,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\Tabel Tembak Mortir\Tabel Tembak Mortir.cpp(130,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\Tabel Tembak Mortir\Tabel Tembak Mortir.cpp(143,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Tabel Tembak Mortir.vcxproj -> C:\Users\LENOVO\source\repos\8 September 2022\Tabel Tembak Mortir\x64\Debug\Tabel Tembak Mortir.exe
